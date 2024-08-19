@@ -1,6 +1,18 @@
 <h2 align="left">Hi ! I am Delowar Hossain Walid </h2>
 
+
+###
+
 # Welcome to My GitHub Profile!
+
+
+
+###
+
+<div align="center" display="grid">
+  <img src="https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/455947320_7833084470074580_2325471323226989634_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=b_D4_lqQFSMQ7kNvgEnffe0&_nc_ht=scontent.fdac5-1.fna&oh=00_AYDxbpRf_3xPwdzUj8dVKTs-7xhl5uO-bPwiQLALR-0Y0g&oe=66C957DE" height="100%" width="100%" alt="stats graph"  />  
+</div>
+
 
 ###
 
@@ -38,11 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="webstorm logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="450" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-</div>
 
 ###
 
